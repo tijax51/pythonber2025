@@ -1,8 +1,10 @@
 
-print("maitei mundore")
+#print("maitei mundore")
 # Cuenta del 1 al 5 (solo estoy probando el pq no consigo ver las lineas en github)
-for i in range(1, 6):
-    print(f"Número: {i}")
+#for i in range(1, 6):
+    #print(f"Número: {i}")
+
+#tryin again de subir algodon    
 
 #python practice 08/04/2026
 #current_time_str = input ("What is the current time (in hours 0 - 23)?")
@@ -18,3 +20,25 @@ for i in range(1, 6):
 #set_time = int (set_time)
 #alarm_time = present_time + set_time
 #print(alarm_time)
+
+#16/04/2026
+#the mantra 
+#Get something working and keep it working
+#its a exercise to create a little house
+import turtle
+import math
+wn = turtle.Screen()
+bob = turtle.Turtle()
+bob.right(90)
+bob.forward(50)
+bob.left(90)
+bob.forward(50)
+bob.left(90)
+bob.forward(50)
+bob.left(90)
+bob.forward(50)
+bob.right(135)
+dist = math.sqrt(50*50/2)
+bob.forward(dist)
+bob.right(90)
+bob.forward(dist)
