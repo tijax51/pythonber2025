@@ -41,4 +41,14 @@ bob.right(135)
 dist = math.sqrt(50*50/2)
 bob.forward(dist)
 bob.right(90)
-bob.forward(dist)
+bob.forward(dist)   
+
+#another form just to create a square
+import turtle
+wn = turtle.Screen()
+june = turtle.Turtle()
+
+for _ in range (4):
+    june.color ("green","yellow")
+    june.forward("50")
+    june. right(90)
