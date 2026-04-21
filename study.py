@@ -52,3 +52,32 @@ for _ in range (4):
     june.color ("green","yellow")
     june.forward("50")
     june. right(90)
+
+#waqi' etz'nab waq'lajuj
+
+# a code to draw a regular pentagon
+
+import turtle
+wn = turtle.Screen()
+bernie = turtle.Turtle()
+bernie.forward(80)
+bernie.left(72)
+bernie.forward(80)
+bernie.left(72)
+bernie.forward(80)
+bernie.left(72)
+bernie.forward(80)
+bernie.left(72)
+bernie.forward(80)
+
+#create a circular geometric mandala, ussing the .speed method
+import turtle
+t = turtle.Turtle()
+t.speed(0) 
+
+
+for _ in range(18):
+    t.forward(100)
+    t.right(190)
+
+turtle.done()
