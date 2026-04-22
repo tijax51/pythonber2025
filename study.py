@@ -81,3 +81,15 @@ for _ in range(18):
     t.right(190)
 
 turtle.done()
+
+#kalajuj ok oxlajuj uo
+#22/04/2026
+#strings 
+s = '5'
+i = 5 
+
+print (s + 10) #this kind of things i cant do tha because isnt possible concatenate 'str' and 'int' objects in the same print
+print (int(s) + 10 ) # this is possible s is convert to integer value
+print (float(s) + 10) #this is another good alternative to transform s to a decimal value 
+print (i + 10) # this is possible
+
