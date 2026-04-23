@@ -93,3 +93,12 @@ print (int(s) + 10 ) # this is possible s is convert to integer value
 print (float(s) + 10) #this is another good alternative to transform s to a decimal value 
 print (i + 10) # this is possible
 
+#oxlajuj chuen kaji uo
+#23/04/2026
+#lists
+
+myList ["one", 4, 'mom'] # this a example of list
+myTuple ("second, 1, 'dad") #ussing tuple we can write any king of value too
+myTuple (51,) #this kind of example of tuple just ussing 1 value
+
+
