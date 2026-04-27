@@ -102,3 +102,15 @@ myTuple ("second, 1, 'dad") #ussing tuple we can write any king of value too
 myTuple (51,) #this kind of example of tuple just ussing 1 value
 
 
+#kaji men waqxaqib uo 13.0.13.9.15
+#27/04/2026
+#the index operator
+
+s = "Python"
+print(s[0]) #print will print "P" because P is the number 0
+print(len(s)) # len is a function to know how many characters or items are in the sequence, in this case i will hace 6 
+print(s[len(s)-1]) # my print will be "n" because python includes negative indices that count backwards from the end of the sequences
+print (s-[-1]) # my result will be the "n" too
+
+myList = ["one", 2, "three"]
+print (myList[1]) #print will print 2, because is the number 2
